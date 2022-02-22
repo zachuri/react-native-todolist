@@ -15,7 +15,7 @@ const Task = ({ text }) => {
 				<Text style={styles.itemText}>{text}</Text>
 			</View>
 
-			<View style={styles.circular}></View>
+			<View style={styles.ciruclar}></View>
 		</View>
 	);
 };
